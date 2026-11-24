@@ -1,0 +1,2 @@
+# ReleaseManagementAIAgentRepo
+Project for ReleaseManagementAIAgent Demo
