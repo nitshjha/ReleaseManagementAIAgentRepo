@@ -1,0 +1,1 @@
+package com.example.releasemanagement.controller; import org.springframework.web.bind.annotation.*; @RestController public class RiskController { @GetMapping("/health") public String health(){ return "OK";} }
